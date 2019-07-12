@@ -1,3 +1,9 @@
+export 'hello.dart';
+
 main(List<String> args) {
-  print("Hello World");
+  print(hello());
+}
+
+String hello() {
+  return "Hello, World";
 }

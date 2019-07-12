@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+build/
+doc/api/
+pubspec.lock  // Except for application packages
+*.iml         // IntelliJ
+*.ipr         // IntelliJ
+*.iws         // IntelliJ
+.idea/        // IntelliJ
+.DS_Store     // Mac

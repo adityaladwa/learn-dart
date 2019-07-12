@@ -1,0 +1,4 @@
+name: learndart
+dependencies:
+  test: ^1.6.5
+  mockito: ^4.1.0
