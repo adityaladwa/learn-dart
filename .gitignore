@@ -2,7 +2,7 @@
 .packages
 build/
 doc/api/
-pubspec.lock  // Except for application packages
+pubspec.lock
 *.iml         // IntelliJ
 *.ipr         // IntelliJ
 *.iws         // IntelliJ
