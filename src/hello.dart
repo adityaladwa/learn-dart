@@ -1,9 +1,19 @@
 export 'hello.dart';
 
+const en = "English";
+const fr = "French";
+
+const enHello = "Hello, World";
+const frHello = "Bon, Jour";
+
 main(List<String> args) {
-  print(hello());
+  print(hello(en));
 }
 
-String hello() {
-  return "Hello, World";
+String hello(String lang) {
+  if (lang == en) {
+    return enHello;
+  } else {
+    return frHello;
+  }
 }
