@@ -4,5 +4,7 @@ dart:
 - stable
 
 dart_task:
-- dartanalyzer: --fatal-warnings
-- dartfmt .
+  xvfb: false
+- test: --platform vm
+- dartanalyzer: --fatal-warnings .
+- dartfmt
