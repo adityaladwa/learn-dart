@@ -1,6 +1,6 @@
 
 import 'package:test/test.dart';
-import 'hello.dart';
+import '../src/hello.dart';
 
 main() {
   test("Hello World", (){
