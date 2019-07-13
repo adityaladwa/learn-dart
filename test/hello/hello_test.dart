@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../src/hello.dart';
+import '../../src/hello/hello.dart';
 
 main() {
   test("Hello World in English", (){
