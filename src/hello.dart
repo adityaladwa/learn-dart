@@ -11,9 +11,9 @@ main(List<String> args) {
 }
 
 String hello(String lang) {
-  if (lang == en) {
-    return enHello;
-  } else {
+  if (lang == fr) {
     return frHello;
+  } else{
+    return enHello;
   }
 }

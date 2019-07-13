@@ -11,4 +11,9 @@ main() {
     var got = hello(fr);
     expect(got, frHello);
   });
+
+  test("Hello World in unknown language", (){
+    var got = hello("");
+    expect(got, enHello);
+  });
 }
