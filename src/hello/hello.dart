@@ -13,7 +13,7 @@ main(List<String> args) {
 String hello(String lang) {
   if (lang == fr) {
     return frHello;
-  } else{
+  } else {
     return enHello;
   }
 }
