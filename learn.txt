@@ -1,0 +1,22 @@
+// Variables and Types
+// Functions
+// control flow
+// Exceptions
+// Classes
+// Generics
+// Library and Visiblity
+// Async Support
+ - Json
+ - Streams
+// Generators
+// Callable 
+// Isolate
+// Type defs
+// Meta data
+// Package Management
+// Core libraries
+// Tools 
+ - Debugger
+ - Command line tool
+ - Static analysis
+ - Testing and Optimization
