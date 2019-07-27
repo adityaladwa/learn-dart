@@ -39,5 +39,6 @@ i am super""";
 
   test("Test Maps", () {
     expect({1: "one"}, myMap);
+    expect(1, myMap.length);
   });
 }
